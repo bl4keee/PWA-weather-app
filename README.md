@@ -18,6 +18,8 @@ https://weather-app-564e7.web.app/
 
 ## Overview
 
+![weather-app-gif](https://user-images.githubusercontent.com/50672367/179212272-35c1ee68-870d-46c1-ac1c-1f55a15f1814.gif)
+
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
